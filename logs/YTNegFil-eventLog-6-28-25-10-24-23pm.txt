@@ -1,0 +1,2777 @@
+[NEW EVENT TYPE] yt-action
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] dom-change
+[dom-change] on DOM-IF.style-scope.ytd-video-preview
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-page-data-fetched
+[yt-page-data-fetched] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] iron-request-resize-notifications
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.dark
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[NEW EVENT TYPE] iron-resize
+[iron-resize] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-enable-lockup-interaction
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-rendererstamper-finished
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[iron-request-resize-notifications] on YTD-FEED-FILTER-CHIP-BAR-RENDERER.style-scope.ytd-rich-grid-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[iron-resize] on YTD-FEED-FILTER-CHIP-BAR-RENDERER.style-scope.ytd-rich-grid-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-BROWSE.style-scope.ytd-page-manager
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-update-title
+[yt-update-title] on YTD-BROWSE.style-scope.ytd-page-manager
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-page-data-updated
+[yt-page-data-updated] on YTD-PAGE-MANAGER#page-manager.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-navigate-finish
+[yt-navigate-finish] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] active-endpoint-changed
+[active-endpoint-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[active-endpoint-changed] on YTD-MASTHEAD#masthead.dark
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-endpoint-changed] on YTD-MINI-GUIDE-RENDERER.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-endpoint-changed] on YTD-BROWSE.style-scope.ytd-page-manager
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[NEW EVENT TYPE] guide-persistent-changed
+[guide-persistent-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] render-guide-changed
+[render-guide-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[NEW EVENT TYPE] mini-guide-visible-changed
+[mini-guide-visible-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-guide-hover
+[yt-guide-hover] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-autonav-pause-guide-closed
+[yt-autonav-pause-guide-closed] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-renderidom-finished
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] guide-persistent-and-visible-changed
+[guide-persistent-and-visible-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[mini-guide-visible-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] image-unloaded
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-request-elements-per-row
+[yt-request-elements-per-row] on YTD-RICH-SHELF-RENDERER.style-scope.ytd-rich-section-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-SHELF-RENDERER.style-scope.ytd-rich-section-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-shelf-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-request-elements-per-row] on YTD-RICH-SHELF-RENDERER.style-scope.ytd-rich-section-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-SHELF-RENDERER.style-scope.ytd-rich-section-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-shelf-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-BROWSE.style-scope.ytd-page-manager
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-rich-shelf-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-rich-shelf-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on PS-DOM-REPEAT.style-scope.ytd-ghost-grid-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on PS-DOM-REPEAT.style-scope.ytd-ghost-grid-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MASTHEAD#masthead
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MASTHEAD#masthead.masthead-finish
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on PS-DOM-IF.style-scope.ytd-topbar-menu-button-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] image-loaded
+[image-loaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-loaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-loaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-loaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-loaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-loaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-loaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-loaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill.yt-core-image--loaded
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] active-changed
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-endpoint-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-endpoint-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[NEW EVENT TYPE] can-show-more-changed
+[can-show-more-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-GUIDE-COLLAPSIBLE-ENTRY-RENDERER.style-scope.ytd-guide-section-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-GUIDE-RENDERER#guide-renderer.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[active-endpoint-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-endpoint-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[active-endpoint-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-GUIDE-RENDERER#guide-renderer.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[NEW EVENT TYPE] shown-items-changed
+[shown-items-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[NEW EVENT TYPE] yt-get-context-provider
+[yt-get-context-provider] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-get-context-provider] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[shown-items-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[can-show-more-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[NEW EVENT TYPE] yt-set-fullerscreen-styles
+[yt-set-fullerscreen-styles] on YTD-WATCH-FLEXY.style-scope.ytd-page-manager
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[active-changed] on YTD-VIDEO-OWNER-RENDERER.style-scope.ytd-watch-metadata
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[NEW EVENT TYPE] yt-text-inline-expander-expanded-changed
+[yt-text-inline-expander-expanded-changed] on YTD-TEXT-INLINE-EXPANDER#description-inline-expander.style-scope.ytd-watch-metadata
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[iron-resize] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[dom-change] on PS-DOM-REPEAT.style-scope.ytd-video-primary-info-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on PS-DOM-IF.style-scope.ytd-watch-info-text
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on PS-DOM-IF.style-scope.ytd-watch-info-text
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-NOTIFICATION-TOPBAR-BUTTON-RENDERER.style-scope.ytd-masthead
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-service-request-sent
+[yt-service-request-sent] on YTD-NOTIFICATION-TOPBAR-BUTTON-RENDERER.style-scope.ytd-masthead
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[NEW EVENT TYPE] yt-service-request-completed
+[yt-service-request-completed] on YTD-NOTIFICATION-TOPBAR-BUTTON-RENDERER.style-scope.ytd-masthead
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[iron-resize] on YTD-MASTHEAD#masthead.masthead-finish
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[guide-persistent-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-autonav-pause-guide-closed] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[guide-persistent-and-visible-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-GUIDE-SECTION-RENDERER.style-scope.ytd-guide-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[mini-guide-visible-changed] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[iron-resize] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YTD-FEED-FILTER-CHIP-BAR-RENDERER.style-scope.ytd-rich-grid-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[iron-resize] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[iron-resize] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+Event: {
+  "isTrusted": false,
+  "__composed": false
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-request-elements-per-row] on YTD-RICH-SHELF-RENDERER.style-scope.ytd-rich-section-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-grid-media
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-request-elements-per-row] on YTD-RICH-SHELF-RENDERER.style-scope.ytd-rich-section-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-enable-lockup-interaction] on YTD-RICH-SHELF-RENDERER.style-scope.ytd-rich-section-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-rendererstamper-finished] on YTD-MENU-RENDERER.style-scope.ytd-rich-shelf-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on PS-DOM-REPEAT.style-scope.ytd-ghost-grid-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT#repeat.style-scope.ytd-badge-supported-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-REPEAT.style-scope.ytd-video-meta-block
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-rich-shelf-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on BUTTON-VIEW-MODEL.yt-spec-button-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on DOM-IF.style-scope.ytd-mini-game-card-view-model
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[dom-change] on PS-DOM-REPEAT.style-scope.ytd-ghost-grid-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-renderidom-finished] on YT-BUTTON-SHAPE
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[image-unloaded] on IMG.yt-core-image.yt-core-image--fill-parent-height.yt-core-image--fill-parent-width.yt-core-image--content-mode-scale-aspect-fill
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on YTD-APP
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+
+[yt-action] on HTML
+Event: {
+  "isTrusted": false,
+  "__composed": true
+}
+

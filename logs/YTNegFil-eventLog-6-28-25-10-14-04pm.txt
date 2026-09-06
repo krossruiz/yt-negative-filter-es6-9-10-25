@@ -1,0 +1,114 @@
+[NEW EVENT TYPE] yt-action
+[yt-action] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+[yt-action] on HTML
+[NEW EVENT TYPE] active-changed
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+[active-changed] on YTD-MINI-GUIDE-ENTRY-RENDERER.style-scope.ytd-mini-guide-renderer
+[yt-action] on YTD-APP
+[yt-action] on HTML
+[NEW EVENT TYPE] dom-change
+[dom-change] on DOM-IF.style-scope.ytd-video-preview
+[yt-action] on HTML
+[NEW EVENT TYPE] iron-request-resize-notifications
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+[NEW EVENT TYPE] iron-resize
+[iron-resize] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+[NEW EVENT TYPE] can-show-more-changed
+[can-show-more-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+[NEW EVENT TYPE] shown-items-changed
+[shown-items-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+[can-show-more-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+[can-show-more-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+[iron-resize] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+[NEW EVENT TYPE] yt-get-context-provider
+[yt-get-context-provider] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+[yt-action] on HTML
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+[iron-resize] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+[yt-get-context-provider] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+[shown-items-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+[can-show-more-changed] on YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER.style-scope.ytd-watch-flexy
+[NEW EVENT TYPE] yt-set-fullerscreen-styles
+[yt-set-fullerscreen-styles] on YTD-WATCH-FLEXY.style-scope.ytd-page-manager
+[active-changed] on YTD-VIDEO-OWNER-RENDERER.style-scope.ytd-watch-metadata
+[iron-request-resize-notifications] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+[iron-resize] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+[NEW EVENT TYPE] yt-text-inline-expander-expanded-changed
+[yt-text-inline-expander-expanded-changed] on YTD-TEXT-INLINE-EXPANDER#description-inline-expander.style-scope.ytd-watch-metadata
+[iron-resize] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+[iron-request-resize-notifications] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+[iron-request-resize-notifications] on YTD-MASTHEAD#masthead.masthead-finish
+[iron-request-resize-notifications] on YT-GUIDE-MANAGER#guide-service.style-scope.ytd-app
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-miniplayer
+[iron-request-resize-notifications] on YTD-RICH-GRID-RENDERER.style-scope.ytd-two-column-browse-results-renderer
+[iron-request-resize-notifications] on YTD-PLAYLIST-PANEL-RENDERER#playlist.style-scope.ytd-watch-flexy
+[iron-resize] on YTD-STRUCTURED-DESCRIPTION-CONTENT-RENDERER#structured-description.style-scope.ytd-watch-metadata
+[dom-change] on PS-DOM-REPEAT.style-scope.ytd-video-primary-info-renderer
+[dom-change] on PS-DOM-IF.style-scope.ytd-watch-info-text
+[dom-change] on PS-DOM-IF.style-scope.ytd-watch-info-text
+[yt-action] on YTD-NOTIFICATION-TOPBAR-BUTTON-RENDERER.style-scope.ytd-masthead
+[NEW EVENT TYPE] yt-service-request-sent
+[yt-service-request-sent] on YTD-NOTIFICATION-TOPBAR-BUTTON-RENDERER.style-scope.ytd-masthead
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[NEW EVENT TYPE] yt-service-request-completed
+[yt-service-request-completed] on YTD-NOTIFICATION-TOPBAR-BUTTON-RENDERER.style-scope.ytd-masthead
+[yt-action] on HTML
+[yt-action] on HTML
+[yt-action] on HTML
+[yt-action] on HTML
+[yt-action] on HTML
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-APP
+[yt-action] on YTD-RICH-GRID-MEDIA.style-scope.ytd-rich-item-renderer
+[yt-action] on HTML
